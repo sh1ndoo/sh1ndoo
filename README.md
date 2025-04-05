@@ -1,6 +1,6 @@
 # Hi, I'm a Junior Developer 👋
 
-Welcome to my GitHub profile! My name is Artyom, and I'm a passionate developer eager to learn and grow in the world of programming. Here you'll find the projects I'm working on and the technologies I'm exploring.
+Welcome to my GitHub profile! My name is Dima, and I'm a passionate developer eager to learn and grow in the world of programming. Here you'll find the projects I'm working on and the technologies I'm exploring.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sh1ndoo&color=blueviolet)
 
