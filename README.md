@@ -15,9 +15,6 @@ Welcome to my GitHub profile! My name is Dima, and I'm a passionate developer ea
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh1ndoo&show_icons=true&theme=radical)
 
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ndoo&layout=compact&theme=radical)
 
 ## 🏆 My Trophies
 
